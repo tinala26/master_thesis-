@@ -4,7 +4,7 @@
 
 This repository contains my Master's thesis project focused on building an interpretable machine learning pipeline for Autism Spectrum Disorder (ASD) classification using clinical and demographic data.
 
-## 🔍 Features
+##  Features
 - Preprocessing of questionnaire and demographic data
 - Multiple classifiers: Logistic Regression, Random Forest, Decision Tree, XGBoost, TabNet, and a custom LTCN model
 - Data imbalance handling using SMOTE
